@@ -11,6 +11,8 @@
 如果你感兴趣的话，可以访问：https://blog.csdn.net/2303_76864056/article/details/146604501?spm=1001.2014.3001.5501
 那里有我更详细的解释。
 
+demo1.ipynb 文件是我写的分析代码。
+
 注意：我只是简单的预测，并没有进一步分析。
 
 # English
@@ -28,6 +30,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 If you are interested, you can visit：https://blog.csdn.net/2303_76864056/article/details/146604501?spm=1001.2014.3001.5501。
 There are more detailed analysis steps.
+
+The demo1.ipynb file is the analysis code I wrote.
 
 Note: This is just a simple prediction and no further analysis is done.
 
